@@ -17,4 +17,4 @@ The package contains:
   - the autoinformation function (time-lagged mutual information)
   - Markov surrogates and confidence intervals
 
-Author: Frederic von Wegner, 05/2017, fvwegner@gmail.com
+Author: Frederic von Wegner, 05/2017, fvwegner*at*gmail.com
