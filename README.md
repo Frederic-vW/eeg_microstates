@@ -1,4 +1,3 @@
-eeg_microstates.py
 Python 2.7.x module containing functions to perform EEG microstate decomposition and information-theoretic analysis.
 Based on the publications:  
 
@@ -17,11 +16,12 @@ The package contains:
   - microstate sequence computation (competitive back-fitting)
 - microstate analysis
   - symbol distribution and transition matrix
-  - entropy, entropy rate
-  - Markov tests for order 0, 1, 2 (cf. Kullback, Technometrics, 1962)
-  - stationarity tests
-  - symmetry test for the transition matrix
-  - the autoinformation function (time-lagged mutual information)
+  - Shannon entropy, entropy rate
+  - Markov tests of order 0, 1, 2 (cf. Kullback, Technometrics, 1962)
+  - transition matrix stationarity test
+  - transition matrix symmetry test
+  - the autoinformation function (time-lagged mutual information) of the microstate sequence
   - Markov surrogates and confidence intervals
+- exemplary use of functions is contained in jupyter notebook format
 
 Author: Frederic von Wegner, 05/2017, fvwegner*at*gmail.com
