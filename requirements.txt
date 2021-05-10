@@ -1,0 +1,7 @@
+#import argparse, os, sys, time
+#from sys import stdout
+numpy==1.18.5
+matplotlib==3.3.1
+scipy==1.4.1
+sklearn==0.20.4
+statsmodels==0.11.1
