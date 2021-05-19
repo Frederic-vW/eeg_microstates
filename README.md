@@ -1,3 +1,7 @@
+# EEG microstate analysis
+
+[![DOI](https://zenodo.org/badge/90614948.svg)](https://zenodo.org/badge/latestdoi/90614948)
+
 Python 2.7.x module containing functions to perform EEG microstate decomposition and information-theoretic analysis.
 Based on the publications:  
 
