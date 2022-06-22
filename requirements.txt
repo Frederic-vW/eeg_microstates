@@ -1,6 +1,6 @@
 #import argparse, os, sys, time
 #from sys import stdout
-numpy==1.18.5
+numpy==1.22.0
 matplotlib==3.3.1
 scipy==1.4.1
 scikit-learn==0.20.4
